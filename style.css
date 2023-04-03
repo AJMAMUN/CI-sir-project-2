@@ -1,0 +1,13 @@
+.box{
+    width: 370px;
+    height: 200px;
+    margin: 150px 350px;
+    box-shadow: 10px 20;
+}
+.style{
+    background-color: dimgray;
+   border-radius: 50%;
+}
+.col-md-4{
+    float: left;
+}
